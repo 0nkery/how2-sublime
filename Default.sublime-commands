@@ -1,0 +1,10 @@
+[
+	{
+		"caption": "How2: Search",
+		"command": "how2"
+	},
+	{
+		"caption": "How2: Show last answers",
+		"command": "how2_show_answers"
+	}
+]

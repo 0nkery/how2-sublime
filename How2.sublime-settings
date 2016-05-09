@@ -1,0 +1,6 @@
+{
+	// How2 executable path
+	"how2_binary": "how2-rs",
+	// Maximum answers to fetch and show
+	"how2_max_answers": 5,
+}
