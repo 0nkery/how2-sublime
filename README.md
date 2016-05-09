@@ -19,6 +19,7 @@ You can add them yourself:
 ```
 
 The `how2` command shows input panel where you can type your query.
+
 The `how2_show_answers` command used by previous command internally.
 If you just call it without any parameters (like in shown key bindings)
 it will show previous answers in the quick panel.
