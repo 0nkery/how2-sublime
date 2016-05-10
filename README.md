@@ -1,6 +1,8 @@
 # how2-sublime
 [How2-rs](https://github.com/0nkery/how2-rs) plugin for Sublime Text 3.
 
+![Demo of using how2-sublime](https://raw.githubusercontent.com/0nkery/how2-sublime/master/how2.gif)
+
 ## Usage
 
 You need the installed how2-rs.
